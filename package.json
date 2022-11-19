@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "draggable-vue-directive": "^2.1.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vuetify": "^2.1.0"
   },
   "devDependencies": {
